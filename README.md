@@ -1,2 +1,2 @@
-# Assignment-1
-answer of tcs307 assignment 1
+# Assignments
+answer of tcs307 assignments 
